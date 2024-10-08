@@ -11,6 +11,7 @@
 ## Code Problems
 
 1. Write a function named `countFromOne` that takes in an integer argument, and console.logs all the integers from 1 up to the given integer.
+
 2. Write a function named `countEveryOdd` that takes in an integer argument, and console.logs all the *odd* integers from 1 up to the given integer, including the given integer.
     
     ```
@@ -39,7 +40,7 @@
 5. Write a function named `sumOfThreeOrFive` that returns the sum of all the multiples of 3 or multiples of 5 from 1 to 1000, exclusive.
     
     ```
-    sumOfThreeAndFive() //returns 233168
+    sumOfThreeOrFive() //returns 233168
     
     ```
     
